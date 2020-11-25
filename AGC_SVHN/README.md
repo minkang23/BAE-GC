@@ -1,6 +1,6 @@
 ## Autoencoder-based Graph Construction for Semi-supervised Learning
 
-Tensorflow implementation for reproducing the Semi-supervised learning results on SVHN (Street Veiw House Number) dataset in the paper (CVPR2020 #10225).
+Tensorflow implementation for reproducing the Semi-supervised learning results on SVHN (Street Veiw House Number) dataset in the paper (ECCV2020 #4655).
 
 
 
